@@ -1,4 +1,4 @@
-# WebShareHost
+# Web Share Host
 Prototype of the Android HTTP Server.\
 Requires internet connection.
 
